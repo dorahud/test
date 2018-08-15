@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="247" it="0" lt="226" ts="1494413318530" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="3254" ng="1" na="1">
+  <httpSample t="226" it="0" lt="226" ts="1494413318530" s="true" lb="http://ww.baidu.com" rc="302" rm="Found" tn="线程组 1-1" dt="text" by="473" ng="1" na="1"/>
+  <httpSample t="18" it="0" lt="18" ts="1494413318759" s="true" lb="http://www.baidu.com/" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="2781" ng="1" na="1"/>
+</httpSample>
+
+</testResults>
